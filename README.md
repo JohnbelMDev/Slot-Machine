@@ -18,6 +18,13 @@ Tech used: HTML, CSS, JAVASCRIPT
 ![Alt Text](https://raw.githubusercontent.com/JohnbelMDev/Slot-Machine/master/Slotmachine/img/Randomize.png)
 
 
+Using the items variables to store the image source files.
+
+![Alt Text](https://raw.githubusercontent.com/JohnbelMDev/Slot-Machine/master/Slotmachine/img/Screen%20Shot%202020-08-16%20at%204.54.19%20PM.png)
+
+1: Checking if the total is less than zero. If the condintion is true let the user that there's no money left
+2: Check if the images in the arrays match
+3: Subtract if the users loses.
 
 
 
